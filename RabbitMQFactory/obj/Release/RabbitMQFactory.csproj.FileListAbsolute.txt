@@ -1,0 +1,9 @@
+C:\AN360_GIT\POC\RABBITMQ\RabbitMQFactory\bin\Release\RabbitMQFactory.dll
+C:\AN360_GIT\POC\RABBITMQ\RabbitMQFactory\bin\Release\RabbitMQFactory.pdb
+C:\AN360_GIT\POC\RABBITMQ\RabbitMQFactory\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\AN360_GIT\POC\RABBITMQ\RabbitMQFactory\bin\Release\RabbitMQ.Client.dll
+C:\AN360_GIT\POC\RABBITMQ\RabbitMQFactory\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\AN360_GIT\POC\RABBITMQ\RabbitMQFactory\bin\Release\RabbitMQ.Client.xml
+C:\AN360_GIT\POC\RABBITMQ\RabbitMQFactory\obj\Release\RabbitMQFactory.csprojResolveAssemblyReference.cache
+C:\AN360_GIT\POC\RABBITMQ\RabbitMQFactory\obj\Release\RabbitMQFactory.dll
+C:\AN360_GIT\POC\RABBITMQ\RabbitMQFactory\obj\Release\RabbitMQFactory.pdb

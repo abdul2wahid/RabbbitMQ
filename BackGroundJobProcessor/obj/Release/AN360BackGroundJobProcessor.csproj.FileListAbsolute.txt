@@ -1,0 +1,14 @@
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\bin\Release\AN360BackGroundJobProcessor.exe.config
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\bin\Release\AN360BackGroundJobProcessor.exe
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\bin\Release\AN360BackGroundJobProcessor.pdb
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\bin\Release\RabbitMQ.Client.dll
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\bin\Release\RabbitMQFactory.dll
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\bin\Release\RabbitMQFactory.pdb
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\bin\Release\RabbitMQ.Client.xml
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\obj\Release\AN360BackGroundJobProcessor.csprojResolveAssemblyReference.cache
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\obj\Release\AN360BackGroundJobProcessor.ProjectInstaller.resources
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\obj\Release\AN360BackGroundJobProcessor.csproj.GenerateResource.Cache
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\obj\Release\AN360BackGroundJobProcessor.exe
+C:\AN360_GIT\POC\RABBITMQ\AN360BackGroundJobProcessor\obj\Release\AN360BackGroundJobProcessor.pdb
